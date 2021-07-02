@@ -1,1 +1,3 @@
 Hello how are you?
+git commit
+I am trying to git commit --amend -m "appending changes"
